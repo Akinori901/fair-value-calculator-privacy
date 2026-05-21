@@ -1,2 +1,3 @@
-# fair-value-calculator-privacy
-FairValueCalculator のプライバシーポリシー
+## Privacy Policy
+
+See: [PRIVACY.md](./PRIVACY.md)
